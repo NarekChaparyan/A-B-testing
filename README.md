@@ -22,6 +22,6 @@ This project uses A/B testing to compare two versions of a digital product to de
 
 1. Open the `main.ipynb` file in Jupyter Notebook.
 2. Run the code cells to perform the data analysis and generate visualizations.
-3. Review the results and insights provided in the notebook.
+3. Review the results and insights provided in the notebook..
 
 
